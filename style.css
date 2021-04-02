@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background: linear-gradient(#9710e0 0%, #10b3e0 100%);
+    background-repeat: no-repeat;
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+}
+
+h1 {
+    text-shadow: 2px 2px #daed0c;
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 20px;
+    color: green;
+}
+
+p {
+    font-size: 20px;
+    color: pink;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
